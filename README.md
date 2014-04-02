@@ -1,4 +1,4 @@
-dojo-panambi
+Coding Dojo Panambi
 ============
 
-Problemas resolvidos pelo grupo de Dojo de Panambi-RS
+Este repositório contém os problemas resolvidos pelo grupo de Dojo de Panambi-RS.
